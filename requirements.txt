@@ -1,5 +1,6 @@
 python-dotenv==1.0.1
 google-generativeai==0.5.4
+google-genai
 Werkzeug==3.0.6
 gunicorn==23.0.0
 bcrypt==4.1.3
