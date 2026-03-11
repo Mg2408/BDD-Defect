@@ -13,5 +13,5 @@ flask_cors==5.0.0
 langchain==0.1.20
 langchain-openai==0.1.7
 langchain-google-genai==1.0.4
-chromadb==0.5.23
+chromadb==0.4.24
 flashrank==0.2.9
